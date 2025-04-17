@@ -1,0 +1,5 @@
+# HTTP 客户端
+aiohttp>=3.8.0
+
+# Tkinter 主题支持
+ttkthemes>=3.2.2
